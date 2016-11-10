@@ -1,10 +1,8 @@
 使用方法
-
 ====
 
 index.vue
-
-<pre type="html">
+<code>
 
 	<template>
 		<Datepicker v-ref:datepicker></Datepicker>
@@ -30,11 +28,11 @@ index.vue
 			}
 		}
 	</script>
-</pre>
+</code>
 
-
-===
 依赖的库或者组件
+====
+
 <ul>
 	<li>1、vuejs</li>
 	<li>2、bootstrap</li>
