@@ -4,7 +4,7 @@
 
 index.vue
 
-<code type="html">
+<pre type="html">
 
 	<template>
 		<Datepicker v-ref:datepicker></Datepicker>
@@ -30,7 +30,7 @@ index.vue
 			}
 		}
 	</script>
-</code>
+</pre>
 
 
 ===
