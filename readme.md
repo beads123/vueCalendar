@@ -1,5 +1,4 @@
-使用方法
-====
+## 使用方法
 
 index.vue
 <code>
@@ -30,10 +29,15 @@ index.vue
 	</script>
 </code>
 
-依赖的库或者组件
-====
+## 依赖的库或者组件
 
 <ul>
 	<li>1、vuejs</li>
 	<li>2、bootstrap</li>
 </ul>
+
+## 图
+
+![](http://7xioxc.com1.z0.glb.clouddn.com/github/vc1.jpg)
+![](http://7xioxc.com1.z0.glb.clouddn.com/github/vc2.jpg)
+![](http://7xioxc.com1.z0.glb.clouddn.com/github/vc3.jpg)
